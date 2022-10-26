@@ -104,7 +104,6 @@ table {
 
 .content {
     z-index: -1;
-    margin-top: 0px;
     background-image: linear-gradient(to right, #801bea, #8b54d7);
     position: relative;
 }
